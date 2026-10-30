@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/doken",
  "yomi": "どうけんほうしえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（詠草）",
+  "era": "室町後期",
+  "author": "岩山道堅",
+  "desc": "岩山道堅の詠草。五十首和歌などの題詠に、三条西実隆の百首題で一夜に詠んだ聖廟法楽の百首を含み、永正10年の年記が見える。"
+ },
  "editions": [
   {
    "pid": "936505",
